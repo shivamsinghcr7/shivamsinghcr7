@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shivam.iitk1@gmail.com**
 
-- 📄 Feel free to download my [RESUME](https://drive.google.com/file/d/1OAuMPeiG8vBW_Z_GeJwOhn_Rshv7BMNV/view?usp=drive_link)
+- 📄 Feel free to download my [RESUME](https://drive.google.com/file/d/1PV773Uq6aDq-pF-dI7s_82F49uQCQ2pf/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
