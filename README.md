@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivamsinghcr7](https://github.com/shivamsinghcr7)
 
-- 💬 Ask me about **ReactJS, Java and html/css/sass etc**
+- 💬 Ask me about **ReactJS, JavaScript and html/css/sass etc**
 
 - 📫 How to reach me **shivam.iitk1@gmail.com**
 
-- 📄 Feel free to download my [RESUME]([https://drive.google.com/file/d/1PV773Uq6aDq-pF-dI7s_82F49uQCQ2pf/view?usp=drive_link](https://drive.google.com/file/d/1S7OA6kjBuUWnEcQmdmXWZZRQrQhbk4el/view?usp=sharing))
+- 📄 Feel free to download my [RESUME]([https://drive.google.com/file/d/1PV773Uq6aDq-pF-dI7s_82F49uQCQ2pf/view?usp=drive_link](https://drive.google.com/file/d/1S7OA6kjBuUWnEcQmdmXWZZRQrQhbk4el/view?usp=sharing)])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
